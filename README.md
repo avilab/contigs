@@ -3,9 +3,9 @@ Metagenomic contigs coverage
 Taavi Päll
 2019-04-26
 
-  - Can we filter contigs based on coverage? Load libraries.
+  - Can we filter contigs based on coverage?
 
-<!-- end list -->
+Load libraries.
 
 ``` r
 library(tidyverse)
