@@ -11,7 +11,7 @@
 library(tidyverse)
 
 #' Importing test data.
-con <- read_csv("SRR5580016_coverage.txt")
+con <- read_csv("SRR5580016_coverage.csv")
 
 #' Contigs length distribution.
 con %>% 
