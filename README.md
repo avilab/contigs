@@ -14,7 +14,7 @@ library(tidyverse)
 Importing test data.
 
 ``` r
-con <- read_csv("SRR5580016_coverage.txt")
+con <- read_csv("SRR5580016_coverage.csv")
 ```
 
     ## Parsed with column specification:
